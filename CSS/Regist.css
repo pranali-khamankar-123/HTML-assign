@@ -1,0 +1,43 @@
+body{
+    
+    background-color: black;
+    opacity: 2;
+    
+    
+   
+
+}
+button{
+    color: white;
+    background-color: blue;
+}
+
+.one{
+    background-image: url(/images/target-board-arrows-sunset-3d-600w-1567585585\ \(1\).webp);
+    background-repeat: no-repeat;
+    background-size: 1100px 800px;
+    height: 800px;
+    margin-left: 500px; 
+    border-radius: 10px;
+
+}
+input{
+    border-radius: 20px;
+}
+
+.two{
+    margin-left: 50px;
+
+}
+    
+    
+
+
+
+
+
+
+    
+    
+        
+    
